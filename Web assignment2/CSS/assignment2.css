@@ -1,0 +1,67 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url("../images/abigail-keenan-17651-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-link{
+    color: white;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    color: green;
+    font-family: "Arial Black";
+}
+.text p {
+    font-family: Arial Black;
+    font-size: 30px;
+}
+.text-center {
+    margin-top: 50px;
+}
+.row li {
+    color: black;
+}
+.masthead {
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.historylists {
+    color: darkgreen;
+    font-size: 25px;
+}
+.intro {
+    font-family: "Times New Roman";
+}
+h2 {
+    text-align: center;
+    color: lightblue;
+}
+.text-center {
+    margin-top: 50px;
+}
+h3 {
+    text-align: center;
+    color: lightblue;
+}
+.chart {
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.textycard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
